@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# Meine Loesungen für OpenHPI Lets Git
